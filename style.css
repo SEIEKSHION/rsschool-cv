@@ -1,5 +1,56 @@
 #logo {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
+}
+.books-education {
+  width:24px;
+  height: 24px;
+}
+
+.main-block {
+  width: 400px;
+}
+
+.ava-name-surname {
+  position: relative;
+  display: flex;
+  height: 250px;
+}
+
+.text-under-header {
+  font-size: 20px;
+}
+.smaller-text-under-header {
+  font-size: 18px;
+}
+
+.name {
+  font-size: 62px;
+  margin: 0;
+}
+.surname {
+  margin: 0;
+  font-size: 62px;
+}
+
+
+
+.contacts {
+  font-size: larger;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+}
+
+.contacts li {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+aside {
+  width: 460px;
 }

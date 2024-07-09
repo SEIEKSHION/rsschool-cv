@@ -2,20 +2,65 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
+		<link
+			rel="shortcut icon"
+			href="src\icons\favicon.ico"
+			type="image/x-icon"
+		/>
 		<link rel="stylesheet" href="style.css" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 		<title>Social site</title>
 	</head>
 	<body>
-		<header>
-			<figure>
-				<img src="src/images/avatar.jpg" alt="avatar" id="logo" />Pavel Hazov
-			</figure>
+		<header class="ava-name-surname">
+			<img src="src/images/avatar.jpg" alt="avatar" id="logo" />
+			<p class="name">Pavel</p>
+			<p class="surname">Hazov</p>
 		</header>
-		/*Верхняя часть */
-		<main></main>
-		/*Основная часть */
-		<footer></footer>
-		/*Нижняя часть */
+
+		<aside>
+			<article>
+				<div>
+					<img
+						src="src/images/education.svg"
+						alt="edu"
+						class="books-education"
+					/>
+					<h2>Education</h2>
+				</div>
+				<div class="main-block">
+					<p class="text-under-header">2013-2024 School</p>
+					<p class="smaller-text-under-header">
+						I studied in school with special enthusiasm, getting good grades. A
+						lot of time has passed and my enthusiasm level has gone down and up
+						again in 6th grade. When computer science came along. And then, as
+						you can imagine, everything went downhill from there.
+					</p>
+					<p class="text-under-header">2022th</p>
+					<p class="smaller-text-under-header">
+						In November 2022, I took the Code for the Future course. Which
+						involved webinars on the topic: Developing graphical interfaces in
+						the Python programming language using the PyQt5 library. At the end
+						of the course I created my own working audio player.
+					</p>
+				</div>
+			</article>
+		</aside>
+
+		<footer>
+			<h2>Contacts:</h2>
+			<ul class="contacts">
+				<li>Phone: <a href="tel:+79226975457">+79226975457</a></li>
+				<li>
+					Email:
+					<a href="mailto:seiekshion.lock@gmail.com"
+						>seiekshion.lock@gmail.com</a
+					>
+				</li>
+				<li>Telegram: @lockym4ik</li>
+				<li>Discord: yudziita</li>
+			</ul>
+		</footer>
 	</body>
 </html>
