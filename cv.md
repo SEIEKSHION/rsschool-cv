@@ -19,5 +19,5 @@ I have completed 11 grades and have a general secondary education. In November 2
 
   [Ссылка на проект](https://seiekshion.github.io/rsschool-cv/cv)
 #### Languages:
-Russian: Upper-intermediate
+Russian: Upper-intermediate; 
 English: Intermediate
