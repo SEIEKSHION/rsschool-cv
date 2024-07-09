@@ -17,7 +17,4 @@ I have completed 11 grades and have a general secondary education. In November 2
 
 ![Скрин решения задачи с codewars](https://i.imgur.com/JqI9bpA.png?1)
 
-  [Ссылка на проект](https://seiekshion.github.io/rsschool-cv/cv)
-#### Languages:
-Russian: Upper-intermediate
-English: Intermediate
+  
